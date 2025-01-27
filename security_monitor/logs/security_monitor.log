@@ -1,0 +1,7 @@
+2025-01-08 16:08:34,847 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250108_160834.jpg
+2025-01-08 16:08:34,848 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-08 16:08:34', 'image': 'motion_20250108_160834.jpg'}
+2025-01-08 16:08:43,759 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-08 16:08:43', 'image': None}
+2025-01-08 16:09:12,721 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250108_160912.jpg
+2025-01-08 16:09:12,722 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-08 16:09:12', 'image': 'motion_20250108_160912.jpg'}
+2025-01-08 16:09:21,627 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-08 16:09:21', 'image': None}
+2025-01-08 16:10:21,070 - SecurityMonitor - INFO - Cleaning up resources...

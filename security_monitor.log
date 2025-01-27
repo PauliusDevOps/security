@@ -1,0 +1,547 @@
+2025-01-08 16:08:34,847 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250108_160834.jpg
+2025-01-08 16:08:34,848 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-08 16:08:34', 'image': 'motion_20250108_160834.jpg'}
+2025-01-08 16:08:43,759 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-08 16:08:43', 'image': None}
+2025-01-08 16:09:12,721 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250108_160912.jpg
+2025-01-08 16:09:12,722 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-08 16:09:12', 'image': 'motion_20250108_160912.jpg'}
+2025-01-08 16:09:21,627 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-08 16:09:21', 'image': None}
+2025-01-08 16:10:21,070 - SecurityMonitor - INFO - Cleaning up resources...
+2025-01-12 10:25:27,626 - SecurityMonitor - INFO - Starting SecurityMonitor initialization
+2025-01-12 10:25:27,785 - SecurityMonitor - INFO - Camera initialized successfully with streaming
+2025-01-12 10:25:27,786 - SecurityMonitor - INFO - GPIO setup completed successfully
+2025-01-12 10:25:27,827 - SecurityMonitor - INFO - LCD setup completed successfully
+2025-01-12 10:25:27,828 - SecurityMonitor - INFO - Security monitoring system starting...
+2025-01-12 10:25:56,687 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 10:25:27', 'image': None}
+2025-01-12 10:26:01,870 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_102601.jpg
+2025-01-12 10:26:01,871 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 10:26:01', 'image': 'motion_20250112_102601.jpg'}
+2025-01-12 10:26:10,667 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 10:26:10', 'image': None}
+2025-01-12 10:26:18,049 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_102618.jpg
+2025-01-12 10:26:18,050 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 10:26:18', 'image': 'motion_20250112_102618.jpg'}
+2025-01-12 10:26:26,508 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 10:26:26', 'image': None}
+2025-01-12 10:26:28,701 - SecurityMonitor - INFO - Image captured: static/captures/door_20250112_102628.jpg
+2025-01-12 10:26:28,702 - SecurityMonitor - INFO - Sending status data: {'door': 'OPEN', 'motion': 'NONE', 'timestamp': '2025-01-12 10:26:28', 'image': 'door_20250112_102628.jpg'}
+2025-01-12 10:26:29,249 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_102629.jpg
+2025-01-12 10:26:29,249 - SecurityMonitor - INFO - Sending status data: {'door': 'OPEN', 'motion': 'DETECTED', 'timestamp': '2025-01-12 10:26:29', 'image': 'motion_20250112_102629.jpg'}
+2025-01-12 10:26:38,154 - SecurityMonitor - INFO - Sending status data: {'door': 'OPEN', 'motion': 'NONE', 'timestamp': '2025-01-12 10:26:38', 'image': None}
+2025-01-12 10:26:41,435 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_102641.jpg
+2025-01-12 10:26:41,437 - SecurityMonitor - INFO - Sending status data: {'door': 'OPEN', 'motion': 'DETECTED', 'timestamp': '2025-01-12 10:26:41', 'image': 'motion_20250112_102641.jpg'}
+2025-01-12 10:26:41,953 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 10:26:41', 'image': None}
+2025-01-12 10:26:50,261 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 10:26:50', 'image': None}
+2025-01-12 10:27:33,877 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_102733.jpg
+2025-01-12 10:27:33,878 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 10:27:33', 'image': 'motion_20250112_102733.jpg'}
+2025-01-12 10:27:42,785 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 10:27:42', 'image': None}
+2025-01-12 10:27:44,989 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_102744.jpg
+2025-01-12 10:27:44,991 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 10:27:44', 'image': 'motion_20250112_102744.jpg'}
+2025-01-12 10:27:53,947 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 10:27:53', 'image': None}
+2025-01-12 10:30:19,283 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_103019.jpg
+2025-01-12 10:30:19,285 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 10:30:19', 'image': 'motion_20250112_103019.jpg'}
+2025-01-12 10:30:27,714 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 10:30:27', 'image': None}
+2025-01-12 10:30:40,298 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_103040.jpg
+2025-01-12 10:30:40,299 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 10:30:40', 'image': 'motion_20250112_103040.jpg'}
+2025-01-12 10:30:49,155 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 10:30:49', 'image': None}
+2025-01-12 10:30:51,352 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_103051.jpg
+2025-01-12 10:30:51,353 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 10:30:51', 'image': 'motion_20250112_103051.jpg'}
+2025-01-12 10:31:00,253 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 10:31:00', 'image': None}
+2025-01-12 10:35:18,140 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_103518.jpg
+2025-01-12 10:35:18,142 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 10:35:18', 'image': 'motion_20250112_103518.jpg'}
+2025-01-12 10:35:26,536 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 10:35:26', 'image': None}
+2025-01-12 10:49:37,922 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_104937.jpg
+2025-01-12 10:49:37,924 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 10:49:37', 'image': 'motion_20250112_104937.jpg'}
+2025-01-12 10:49:46,241 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 10:49:46', 'image': None}
+2025-01-12 10:49:48,991 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_104948.jpg
+2025-01-12 10:49:48,992 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 10:49:48', 'image': 'motion_20250112_104948.jpg'}
+2025-01-12 10:49:57,895 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 10:49:57', 'image': None}
+2025-01-12 10:53:50,105 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_105350.jpg
+2025-01-12 10:53:50,105 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 10:53:50', 'image': 'motion_20250112_105350.jpg'}
+2025-01-12 10:53:58,409 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 10:53:58', 'image': None}
+2025-01-12 10:54:01,701 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_105401.jpg
+2025-01-12 10:54:01,702 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 10:54:01', 'image': 'motion_20250112_105401.jpg'}
+2025-01-12 10:54:10,078 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 10:54:10', 'image': None}
+2025-01-12 10:54:17,749 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_105417.jpg
+2025-01-12 10:54:17,749 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 10:54:17', 'image': 'motion_20250112_105417.jpg'}
+2025-01-12 10:54:26,648 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 10:54:26', 'image': None}
+2025-01-12 10:54:29,955 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_105429.jpg
+2025-01-12 10:54:29,956 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 10:54:29', 'image': 'motion_20250112_105429.jpg'}
+2025-01-12 10:54:38,369 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 10:54:38', 'image': None}
+2025-01-12 10:55:01,848 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_105501.jpg
+2025-01-12 10:55:01,849 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 10:55:01', 'image': 'motion_20250112_105501.jpg'}
+2025-01-12 10:55:10,753 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 10:55:10', 'image': None}
+2025-01-12 10:55:22,463 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_105522.jpg
+2025-01-12 10:55:22,465 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 10:55:22', 'image': 'motion_20250112_105522.jpg'}
+2025-01-12 10:55:31,344 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 10:55:31', 'image': None}
+2025-01-12 11:06:57,365 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_110657.jpg
+2025-01-12 11:06:57,366 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 11:06:57', 'image': 'motion_20250112_110657.jpg'}
+2025-01-12 11:07:06,233 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 11:07:06', 'image': None}
+2025-01-12 11:13:30,474 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_111330.jpg
+2025-01-12 11:13:30,475 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 11:13:30', 'image': 'motion_20250112_111330.jpg'}
+2025-01-12 11:13:38,861 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 11:13:38', 'image': None}
+2025-01-12 11:18:28,551 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_111828.jpg
+2025-01-12 11:18:28,552 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 11:18:28', 'image': 'motion_20250112_111828.jpg'}
+2025-01-12 11:18:37,396 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 11:18:37', 'image': None}
+2025-01-12 11:18:39,584 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_111839.jpg
+2025-01-12 11:18:39,585 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 11:18:39', 'image': 'motion_20250112_111839.jpg'}
+2025-01-12 11:18:48,455 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 11:18:48', 'image': None}
+2025-01-12 11:18:53,926 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_111853.jpg
+2025-01-12 11:18:53,926 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 11:18:53', 'image': 'motion_20250112_111853.jpg'}
+2025-01-12 11:19:02,205 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 11:19:02', 'image': None}
+2025-01-12 11:19:04,947 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_111904.jpg
+2025-01-12 11:19:04,947 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 11:19:04', 'image': 'motion_20250112_111904.jpg'}
+2025-01-12 11:19:13,323 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 11:19:13', 'image': None}
+2025-01-12 11:19:16,067 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_111916.jpg
+2025-01-12 11:19:16,068 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 11:19:16', 'image': 'motion_20250112_111916.jpg'}
+2025-01-12 11:19:24,482 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 11:19:24', 'image': None}
+2025-01-12 11:19:27,780 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_111927.jpg
+2025-01-12 11:19:27,780 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 11:19:27', 'image': 'motion_20250112_111927.jpg'}
+2025-01-12 11:19:36,629 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 11:19:36', 'image': None}
+2025-01-12 11:19:41,144 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_111941.jpg
+2025-01-12 11:19:41,144 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 11:19:41', 'image': 'motion_20250112_111941.jpg'}
+2025-01-12 11:19:50,198 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 11:19:50', 'image': None}
+2025-01-12 11:47:47,409 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_114747.jpg
+2025-01-12 11:47:47,410 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 11:47:47', 'image': 'motion_20250112_114747.jpg'}
+2025-01-12 11:47:55,681 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 11:47:55', 'image': None}
+2025-01-12 12:00:23,354 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_120023.jpg
+2025-01-12 12:00:23,355 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 12:00:23', 'image': 'motion_20250112_120023.jpg'}
+2025-01-12 12:00:32,232 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 12:00:32', 'image': None}
+2025-01-12 12:00:42,063 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_120042.jpg
+2025-01-12 12:00:42,064 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 12:00:42', 'image': 'motion_20250112_120042.jpg'}
+2025-01-12 12:00:50,917 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 12:00:50', 'image': None}
+2025-01-12 12:32:59,669 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_123259.jpg
+2025-01-12 12:32:59,670 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 12:32:59', 'image': 'motion_20250112_123259.jpg'}
+2025-01-12 12:33:08,566 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 12:33:08', 'image': None}
+2025-01-12 12:33:24,407 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_123324.jpg
+2025-01-12 12:33:24,408 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 12:33:24', 'image': 'motion_20250112_123324.jpg'}
+2025-01-12 12:33:32,711 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 12:33:32', 'image': None}
+2025-01-12 12:33:48,015 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_123347.jpg
+2025-01-12 12:33:48,015 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 12:33:48', 'image': 'motion_20250112_123347.jpg'}
+2025-01-12 12:33:56,942 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 12:33:56', 'image': None}
+2025-01-12 12:49:27,155 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_124927.jpg
+2025-01-12 12:49:27,155 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 12:49:27', 'image': 'motion_20250112_124927.jpg'}
+2025-01-12 12:49:35,460 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 12:49:35', 'image': None}
+2025-01-12 12:54:17,565 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_125417.jpg
+2025-01-12 12:54:17,566 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 12:54:17', 'image': 'motion_20250112_125417.jpg'}
+2025-01-12 12:54:26,473 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 12:54:26', 'image': None}
+2025-01-12 12:56:41,260 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_125641.jpg
+2025-01-12 12:56:41,268 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 12:56:41', 'image': 'motion_20250112_125641.jpg'}
+2025-01-12 12:56:50,183 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 12:56:50', 'image': None}
+2025-01-12 12:57:03,286 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_125703.jpg
+2025-01-12 12:57:03,286 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 12:57:03', 'image': 'motion_20250112_125703.jpg'}
+2025-01-12 12:57:11,663 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 12:57:11', 'image': None}
+2025-01-12 13:02:32,548 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_130232.jpg
+2025-01-12 13:02:32,548 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:02:32', 'image': 'motion_20250112_130232.jpg'}
+2025-01-12 13:02:41,533 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:02:41', 'image': None}
+2025-01-12 13:03:22,207 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_130322.jpg
+2025-01-12 13:03:22,208 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:03:22', 'image': 'motion_20250112_130322.jpg'}
+2025-01-12 13:03:31,069 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:03:31', 'image': None}
+2025-01-12 13:03:50,439 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_130350.jpg
+2025-01-12 13:03:50,442 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:03:50', 'image': 'motion_20250112_130350.jpg'}
+2025-01-12 13:03:58,846 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:03:58', 'image': None}
+2025-01-12 13:06:10,179 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_130610.jpg
+2025-01-12 13:06:10,180 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:06:10', 'image': 'motion_20250112_130610.jpg'}
+2025-01-12 13:06:18,521 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:06:18', 'image': None}
+2025-01-12 13:10:59,301 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_131059.jpg
+2025-01-12 13:10:59,302 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:10:59', 'image': 'motion_20250112_131059.jpg'}
+2025-01-12 13:11:08,157 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:11:08', 'image': None}
+2025-01-12 13:11:10,357 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_131110.jpg
+2025-01-12 13:11:10,357 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:11:10', 'image': 'motion_20250112_131110.jpg'}
+2025-01-12 13:11:19,268 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:11:19', 'image': None}
+2025-01-12 13:11:21,470 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_131121.jpg
+2025-01-12 13:11:21,471 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:11:21', 'image': 'motion_20250112_131121.jpg'}
+2025-01-12 13:11:30,333 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:11:30', 'image': None}
+2025-01-12 13:12:14,712 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_131214.jpg
+2025-01-12 13:12:14,714 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:12:14', 'image': 'motion_20250112_131214.jpg'}
+2025-01-12 13:12:23,001 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:12:23', 'image': None}
+2025-01-12 13:13:07,513 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_131307.jpg
+2025-01-12 13:13:07,514 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:13:07', 'image': 'motion_20250112_131307.jpg'}
+2025-01-12 13:13:16,361 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:13:16', 'image': None}
+2025-01-12 13:17:25,388 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_131725.jpg
+2025-01-12 13:17:25,389 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:17:25', 'image': 'motion_20250112_131725.jpg'}
+2025-01-12 13:17:33,725 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:17:33', 'image': None}
+2025-01-12 13:18:58,621 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_131858.jpg
+2025-01-12 13:18:58,621 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:18:58', 'image': 'motion_20250112_131858.jpg'}
+2025-01-12 13:19:07,484 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:19:07', 'image': None}
+2025-01-12 13:23:24,523 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_132324.jpg
+2025-01-12 13:23:24,526 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:23:24', 'image': 'motion_20250112_132324.jpg'}
+2025-01-12 13:23:33,395 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:23:33', 'image': None}
+2025-01-12 13:23:48,190 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_132348.jpg
+2025-01-12 13:23:48,191 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:23:48', 'image': 'motion_20250112_132348.jpg'}
+2025-01-12 13:23:56,625 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:23:56', 'image': None}
+2025-01-12 13:23:59,385 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_132359.jpg
+2025-01-12 13:23:59,387 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:23:59', 'image': 'motion_20250112_132359.jpg'}
+2025-01-12 13:24:07,689 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:24:07', 'image': None}
+2025-01-12 13:26:43,006 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_132642.jpg
+2025-01-12 13:26:43,008 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:26:43', 'image': 'motion_20250112_132642.jpg'}
+2025-01-12 13:26:51,884 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:26:51', 'image': None}
+2025-01-12 13:27:19,762 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_132719.jpg
+2025-01-12 13:27:19,763 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:27:19', 'image': 'motion_20250112_132719.jpg'}
+2025-01-12 13:27:28,161 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:27:28', 'image': None}
+2025-01-12 13:27:41,277 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_132741.jpg
+2025-01-12 13:27:41,278 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:27:41', 'image': 'motion_20250112_132741.jpg'}
+2025-01-12 13:27:50,171 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:27:50', 'image': None}
+2025-01-12 13:27:52,924 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_132752.jpg
+2025-01-12 13:27:52,925 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:27:52', 'image': 'motion_20250112_132752.jpg'}
+2025-01-12 13:28:01,216 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:28:01', 'image': None}
+2025-01-12 13:28:05,590 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_132805.jpg
+2025-01-12 13:28:05,591 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:28:05', 'image': 'motion_20250112_132805.jpg'}
+2025-01-12 13:28:14,432 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:28:14', 'image': None}
+2025-01-12 13:41:28,932 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_134128.jpg
+2025-01-12 13:41:28,933 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:41:28', 'image': 'motion_20250112_134128.jpg'}
+2025-01-12 13:41:37,789 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:41:37', 'image': None}
+2025-01-12 13:45:12,075 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_134512.jpg
+2025-01-12 13:45:12,076 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:45:12', 'image': 'motion_20250112_134512.jpg'}
+2025-01-12 13:45:20,464 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:45:20', 'image': None}
+2025-01-12 13:45:52,186 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_134552.jpg
+2025-01-12 13:45:52,187 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:45:52', 'image': 'motion_20250112_134552.jpg'}
+2025-01-12 13:46:00,601 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:46:00', 'image': None}
+2025-01-12 13:46:20,826 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_134620.jpg
+2025-01-12 13:46:20,827 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:46:20', 'image': 'motion_20250112_134620.jpg'}
+2025-01-12 13:46:29,777 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:46:29', 'image': None}
+2025-01-12 13:47:07,499 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_134707.jpg
+2025-01-12 13:47:07,501 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:47:07', 'image': 'motion_20250112_134707.jpg'}
+2025-01-12 13:47:15,834 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:47:15', 'image': None}
+2025-01-12 13:50:16,060 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_135016.jpg
+2025-01-12 13:50:16,061 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:50:16', 'image': 'motion_20250112_135016.jpg'}
+2025-01-12 13:50:24,412 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:50:24', 'image': None}
+2025-01-12 13:50:28,808 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_135028.jpg
+2025-01-12 13:50:28,808 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:50:28', 'image': 'motion_20250112_135028.jpg'}
+2025-01-12 13:50:37,125 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:50:37', 'image': None}
+2025-01-12 13:50:39,874 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_135039.jpg
+2025-01-12 13:50:39,875 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:50:39', 'image': 'motion_20250112_135039.jpg'}
+2025-01-12 13:50:48,745 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:50:48', 'image': None}
+2025-01-12 13:52:54,673 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_135254.jpg
+2025-01-12 13:52:54,674 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:52:54', 'image': 'motion_20250112_135254.jpg'}
+2025-01-12 13:53:03,010 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:53:03', 'image': None}
+2025-01-12 13:53:16,712 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_135316.jpg
+2025-01-12 13:53:16,712 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:53:16', 'image': 'motion_20250112_135316.jpg'}
+2025-01-12 13:53:25,051 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:53:25', 'image': None}
+2025-01-12 13:53:47,440 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_135347.jpg
+2025-01-12 13:53:47,442 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:53:47', 'image': 'motion_20250112_135347.jpg'}
+2025-01-12 13:53:55,745 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:53:55', 'image': None}
+2025-01-12 13:54:24,755 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_135424.jpg
+2025-01-12 13:54:24,756 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:54:24', 'image': 'motion_20250112_135424.jpg'}
+2025-01-12 13:54:33,089 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:54:33', 'image': None}
+2025-01-12 13:54:36,941 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_135436.jpg
+2025-01-12 13:54:36,942 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:54:36', 'image': 'motion_20250112_135436.jpg'}
+2025-01-12 13:54:45,329 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 13:54:45', 'image': None}
+2025-01-12 13:59:52,902 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_135952.jpg
+2025-01-12 13:59:52,903 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 13:59:52', 'image': 'motion_20250112_135952.jpg'}
+2025-01-12 14:00:01,314 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 14:00:01', 'image': None}
+2025-01-12 14:09:04,835 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_140904.jpg
+2025-01-12 14:09:04,837 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 14:09:04', 'image': 'motion_20250112_140904.jpg'}
+2025-01-12 14:09:13,264 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 14:09:13', 'image': None}
+2025-01-12 14:35:32,243 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_143532.jpg
+2025-01-12 14:35:32,245 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 14:35:32', 'image': 'motion_20250112_143532.jpg'}
+2025-01-12 14:35:40,630 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 14:35:40', 'image': None}
+2025-01-12 14:39:20,753 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_143920.jpg
+2025-01-12 14:39:20,754 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 14:39:20', 'image': 'motion_20250112_143920.jpg'}
+2025-01-12 14:39:29,066 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 14:39:29', 'image': None}
+2025-01-12 14:39:54,793 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_143954.jpg
+2025-01-12 14:39:54,794 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 14:39:54', 'image': 'motion_20250112_143954.jpg'}
+2025-01-12 14:40:03,748 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 14:40:03', 'image': None}
+2025-01-12 14:40:11,428 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_144011.jpg
+2025-01-12 14:40:11,429 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 14:40:11', 'image': 'motion_20250112_144011.jpg'}
+2025-01-12 14:40:20,305 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 14:40:20', 'image': None}
+2025-01-12 14:50:30,711 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_145030.jpg
+2025-01-12 14:50:30,717 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 14:50:30', 'image': 'motion_20250112_145030.jpg'}
+2025-01-12 14:50:39,679 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 14:50:39', 'image': None}
+2025-01-12 14:51:12,544 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_145112.jpg
+2025-01-12 14:51:12,545 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 14:51:12', 'image': 'motion_20250112_145112.jpg'}
+2025-01-12 14:51:21,424 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 14:51:21', 'image': None}
+2025-01-12 14:52:13,991 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_145213.jpg
+2025-01-12 14:52:13,992 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 14:52:13', 'image': 'motion_20250112_145213.jpg'}
+2025-01-12 14:52:22,869 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 14:52:22', 'image': None}
+2025-01-12 14:52:36,208 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_145236.jpg
+2025-01-12 14:52:36,209 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 14:52:36', 'image': 'motion_20250112_145236.jpg'}
+2025-01-12 14:52:45,077 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 14:52:45', 'image': None}
+2025-01-12 14:52:53,871 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_145253.jpg
+2025-01-12 14:52:53,872 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 14:52:53', 'image': 'motion_20250112_145253.jpg'}
+2025-01-12 14:53:02,689 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 14:53:02', 'image': None}
+2025-01-12 14:53:21,802 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_145321.jpg
+2025-01-12 14:53:21,804 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 14:53:21', 'image': 'motion_20250112_145321.jpg'}
+2025-01-12 14:53:30,753 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 14:53:30', 'image': None}
+2025-01-12 14:55:40,938 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_145540.jpg
+2025-01-12 14:55:40,940 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 14:55:40', 'image': 'motion_20250112_145540.jpg'}
+2025-01-12 14:55:49,364 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 14:55:49', 'image': None}
+2025-01-12 14:55:52,719 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_145552.jpg
+2025-01-12 14:55:52,720 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 14:55:52', 'image': 'motion_20250112_145552.jpg'}
+2025-01-12 14:56:01,528 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 14:56:01', 'image': None}
+2025-01-12 15:03:50,655 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_150350.jpg
+2025-01-12 15:03:50,656 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:03:50', 'image': 'motion_20250112_150350.jpg'}
+2025-01-12 15:03:59,518 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:03:59', 'image': None}
+2025-01-12 15:14:49,762 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_151449.jpg
+2025-01-12 15:14:49,764 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:14:49', 'image': 'motion_20250112_151449.jpg'}
+2025-01-12 15:14:58,663 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:14:58', 'image': None}
+2025-01-12 15:15:08,445 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_151508.jpg
+2025-01-12 15:15:08,446 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:15:08', 'image': 'motion_20250112_151508.jpg'}
+2025-01-12 15:15:16,818 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:15:16', 'image': None}
+2025-01-12 15:18:52,985 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_151852.jpg
+2025-01-12 15:18:52,987 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:18:52', 'image': 'motion_20250112_151852.jpg'}
+2025-01-12 15:19:01,897 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:19:01', 'image': None}
+2025-01-12 15:19:04,623 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_151904.jpg
+2025-01-12 15:19:04,624 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:19:04', 'image': 'motion_20250112_151904.jpg'}
+2025-01-12 15:19:13,447 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:19:13', 'image': None}
+2025-01-12 15:19:15,665 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_151915.jpg
+2025-01-12 15:19:15,666 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:19:15', 'image': 'motion_20250112_151915.jpg'}
+2025-01-12 15:19:24,465 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:19:24', 'image': None}
+2025-01-12 15:27:22,127 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_152722.jpg
+2025-01-12 15:27:22,129 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:27:22', 'image': 'motion_20250112_152722.jpg'}
+2025-01-12 15:27:30,412 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:27:30', 'image': None}
+2025-01-12 15:27:33,248 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_152733.jpg
+2025-01-12 15:27:33,248 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:27:33', 'image': 'motion_20250112_152733.jpg'}
+2025-01-12 15:27:41,823 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:27:41', 'image': None}
+2025-01-12 15:27:59,400 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_152759.jpg
+2025-01-12 15:27:59,405 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:27:59', 'image': 'motion_20250112_152759.jpg'}
+2025-01-12 15:28:08,369 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:28:08', 'image': None}
+2025-01-12 15:28:12,217 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_152812.jpg
+2025-01-12 15:28:12,218 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:28:12', 'image': 'motion_20250112_152812.jpg'}
+2025-01-12 15:28:21,058 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:28:21', 'image': None}
+2025-01-12 15:30:01,222 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_153001.jpg
+2025-01-12 15:30:01,223 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:30:01', 'image': 'motion_20250112_153001.jpg'}
+2025-01-12 15:30:10,190 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:30:10', 'image': None}
+2025-01-12 15:30:46,266 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_153046.jpg
+2025-01-12 15:30:46,267 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:30:46', 'image': 'motion_20250112_153046.jpg'}
+2025-01-12 15:30:54,593 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:30:54', 'image': None}
+2025-01-12 15:31:41,087 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_153141.jpg
+2025-01-12 15:31:41,088 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:31:41', 'image': 'motion_20250112_153141.jpg'}
+2025-01-12 15:31:50,065 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:31:50', 'image': None}
+2025-01-12 15:36:33,049 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_153633.jpg
+2025-01-12 15:36:33,050 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:36:33', 'image': 'motion_20250112_153633.jpg'}
+2025-01-12 15:36:41,924 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:36:41', 'image': None}
+2025-01-12 15:40:09,364 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_154009.jpg
+2025-01-12 15:40:09,365 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:40:09', 'image': 'motion_20250112_154009.jpg'}
+2025-01-12 15:40:18,242 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:40:18', 'image': None}
+2025-01-12 15:41:08,583 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_154108.jpg
+2025-01-12 15:41:08,585 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:41:08', 'image': 'motion_20250112_154108.jpg'}
+2025-01-12 15:41:16,881 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:41:16', 'image': None}
+2025-01-12 15:45:08,435 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_154508.jpg
+2025-01-12 15:45:08,435 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:45:08', 'image': 'motion_20250112_154508.jpg'}
+2025-01-12 15:45:16,757 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:45:16', 'image': None}
+2025-01-12 15:46:18,591 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_154618.jpg
+2025-01-12 15:46:18,592 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:46:18', 'image': 'motion_20250112_154618.jpg'}
+2025-01-12 15:46:27,006 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:46:27', 'image': None}
+2025-01-12 15:46:30,845 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_154630.jpg
+2025-01-12 15:46:30,850 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:46:30', 'image': 'motion_20250112_154630.jpg'}
+2025-01-12 15:46:39,746 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:46:39', 'image': None}
+2025-01-12 15:53:04,125 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_155304.jpg
+2025-01-12 15:53:04,130 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:53:04', 'image': 'motion_20250112_155304.jpg'}
+2025-01-12 15:53:13,081 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:53:13', 'image': None}
+2025-01-12 15:53:21,312 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_155321.jpg
+2025-01-12 15:53:21,313 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:53:21', 'image': 'motion_20250112_155321.jpg'}
+2025-01-12 15:53:29,647 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:53:29', 'image': None}
+2025-01-12 15:53:32,399 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_155332.jpg
+2025-01-12 15:53:32,399 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:53:32', 'image': 'motion_20250112_155332.jpg'}
+2025-01-12 15:53:41,268 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:53:41', 'image': None}
+2025-01-12 15:59:10,412 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_155910.jpg
+2025-01-12 15:59:10,413 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:59:10', 'image': 'motion_20250112_155910.jpg'}
+2025-01-12 15:59:18,738 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:59:18', 'image': None}
+2025-01-12 15:59:42,826 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_155942.jpg
+2025-01-12 15:59:42,826 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 15:59:42', 'image': 'motion_20250112_155942.jpg'}
+2025-01-12 15:59:51,677 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 15:59:51', 'image': None}
+2025-01-12 16:02:20,574 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_160220.jpg
+2025-01-12 16:02:20,575 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 16:02:20', 'image': 'motion_20250112_160220.jpg'}
+2025-01-12 16:02:29,471 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 16:02:29', 'image': None}
+2025-01-12 16:03:10,034 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_160310.jpg
+2025-01-12 16:03:10,035 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 16:03:10', 'image': 'motion_20250112_160310.jpg'}
+2025-01-12 16:03:18,912 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 16:03:18', 'image': None}
+2025-01-12 16:03:42,453 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_160342.jpg
+2025-01-12 16:03:42,453 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 16:03:42', 'image': 'motion_20250112_160342.jpg'}
+2025-01-12 16:03:51,299 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 16:03:51', 'image': None}
+2025-01-12 16:05:24,861 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_160524.jpg
+2025-01-12 16:05:24,862 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 16:05:24', 'image': 'motion_20250112_160524.jpg'}
+2025-01-12 16:05:33,703 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 16:05:33', 'image': None}
+2025-01-12 16:09:34,611 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_160934.jpg
+2025-01-12 16:09:34,612 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 16:09:34', 'image': 'motion_20250112_160934.jpg'}
+2025-01-12 16:09:43,453 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 16:09:43', 'image': None}
+2025-01-12 16:09:50,044 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_160950.jpg
+2025-01-12 16:09:50,045 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 16:09:50', 'image': 'motion_20250112_160950.jpg'}
+2025-01-12 16:09:58,417 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 16:09:58', 'image': None}
+2025-01-12 16:10:03,340 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_161003.jpg
+2025-01-12 16:10:03,341 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 16:10:03', 'image': 'motion_20250112_161003.jpg'}
+2025-01-12 16:10:11,720 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 16:10:11', 'image': None}
+2025-01-12 16:10:18,327 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_161018.jpg
+2025-01-12 16:10:18,330 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 16:10:18', 'image': 'motion_20250112_161018.jpg'}
+2025-01-12 16:10:26,621 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 16:10:26', 'image': None}
+2025-01-12 16:11:53,605 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_161153.jpg
+2025-01-12 16:11:53,606 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 16:11:53', 'image': 'motion_20250112_161153.jpg'}
+2025-01-12 16:12:01,983 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 16:12:01', 'image': None}
+2025-01-12 16:12:20,737 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_161220.jpg
+2025-01-12 16:12:20,737 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 16:12:20', 'image': 'motion_20250112_161220.jpg'}
+2025-01-12 16:12:29,197 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 16:12:29', 'image': None}
+2025-01-12 16:12:58,180 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_161258.jpg
+2025-01-12 16:12:58,182 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 16:12:58', 'image': 'motion_20250112_161258.jpg'}
+2025-01-12 16:13:07,079 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 16:13:07', 'image': None}
+2025-01-12 16:13:10,936 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_161310.jpg
+2025-01-12 16:13:10,937 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 16:13:10', 'image': 'motion_20250112_161310.jpg'}
+2025-01-12 16:13:19,335 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 16:13:19', 'image': None}
+2025-01-12 16:13:29,746 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_161329.jpg
+2025-01-12 16:13:29,749 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 16:13:29', 'image': 'motion_20250112_161329.jpg'}
+2025-01-12 16:13:38,661 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 16:13:38', 'image': None}
+2025-01-12 16:13:43,603 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_161343.jpg
+2025-01-12 16:13:43,604 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 16:13:43', 'image': 'motion_20250112_161343.jpg'}
+2025-01-12 16:13:52,474 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 16:13:52', 'image': None}
+2025-01-12 16:13:55,214 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_161355.jpg
+2025-01-12 16:13:55,215 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 16:13:55', 'image': 'motion_20250112_161355.jpg'}
+2025-01-12 16:14:04,102 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 16:14:04', 'image': None}
+2025-01-12 16:33:09,414 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_163309.jpg
+2025-01-12 16:33:09,417 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 16:33:09', 'image': 'motion_20250112_163309.jpg'}
+2025-01-12 16:33:18,235 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 16:33:18', 'image': None}
+2025-01-12 16:33:54,893 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_163354.jpg
+2025-01-12 16:33:54,894 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 16:33:54', 'image': 'motion_20250112_163354.jpg'}
+2025-01-12 16:34:03,313 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 16:34:03', 'image': None}
+2025-01-12 16:38:05,266 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_163805.jpg
+2025-01-12 16:38:05,267 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 16:38:05', 'image': 'motion_20250112_163805.jpg'}
+2025-01-12 16:38:13,687 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 16:38:13', 'image': None}
+2025-01-12 16:47:33,793 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_164733.jpg
+2025-01-12 16:47:33,795 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 16:47:33', 'image': 'motion_20250112_164733.jpg'}
+2025-01-12 16:47:42,133 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 16:47:42', 'image': None}
+2025-01-12 16:52:50,793 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_165250.jpg
+2025-01-12 16:52:50,794 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 16:52:50', 'image': 'motion_20250112_165250.jpg'}
+2025-01-12 16:52:59,725 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 16:52:59', 'image': None}
+2025-01-12 17:00:36,375 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_170036.jpg
+2025-01-12 17:00:36,376 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 17:00:36', 'image': 'motion_20250112_170036.jpg'}
+2025-01-12 17:00:45,283 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 17:00:45', 'image': None}
+2025-01-12 17:08:02,372 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_170802.jpg
+2025-01-12 17:08:02,373 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 17:08:02', 'image': 'motion_20250112_170802.jpg'}
+2025-01-12 17:08:11,231 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 17:08:11', 'image': None}
+2025-01-12 17:08:18,371 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_170818.jpg
+2025-01-12 17:08:18,373 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 17:08:18', 'image': 'motion_20250112_170818.jpg'}
+2025-01-12 17:08:27,220 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 17:08:27', 'image': None}
+2025-01-12 17:23:29,199 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_172329.jpg
+2025-01-12 17:23:29,200 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 17:23:29', 'image': 'motion_20250112_172329.jpg'}
+2025-01-12 17:23:38,116 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 17:23:38', 'image': None}
+2025-01-12 17:27:33,930 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_172733.jpg
+2025-01-12 17:27:33,931 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 17:27:33', 'image': 'motion_20250112_172733.jpg'}
+2025-01-12 17:27:42,800 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 17:27:42', 'image': None}
+2025-01-12 17:27:49,398 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_172749.jpg
+2025-01-12 17:27:49,399 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 17:27:49', 'image': 'motion_20250112_172749.jpg'}
+2025-01-12 17:27:58,232 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 17:27:58', 'image': None}
+2025-01-12 17:28:02,636 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_172802.jpg
+2025-01-12 17:28:02,639 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 17:28:02', 'image': 'motion_20250112_172802.jpg'}
+2025-01-12 17:28:11,050 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 17:28:11', 'image': None}
+2025-01-12 17:39:53,770 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_173953.jpg
+2025-01-12 17:39:53,774 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 17:39:53', 'image': 'motion_20250112_173953.jpg'}
+2025-01-12 17:40:02,670 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 17:40:02', 'image': None}
+2025-01-12 17:40:57,420 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_174057.jpg
+2025-01-12 17:40:57,422 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 17:40:57', 'image': 'motion_20250112_174057.jpg'}
+2025-01-12 17:41:05,730 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 17:41:05', 'image': None}
+2025-01-12 17:44:34,454 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_174434.jpg
+2025-01-12 17:44:34,455 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 17:44:34', 'image': 'motion_20250112_174434.jpg'}
+2025-01-12 17:44:43,333 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 17:44:43', 'image': None}
+2025-01-12 18:09:58,698 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_180958.jpg
+2025-01-12 18:09:58,699 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:09:58', 'image': 'motion_20250112_180958.jpg'}
+2025-01-12 18:10:07,098 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:10:07', 'image': None}
+2025-01-12 18:10:19,130 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_181019.jpg
+2025-01-12 18:10:19,131 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:10:19', 'image': 'motion_20250112_181019.jpg'}
+2025-01-12 18:10:27,975 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:10:27', 'image': None}
+2025-01-12 18:10:43,517 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_181043.jpg
+2025-01-12 18:10:43,518 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:10:43', 'image': 'motion_20250112_181043.jpg'}
+2025-01-12 18:10:52,390 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:10:52', 'image': None}
+2025-01-12 18:12:05,785 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_181205.jpg
+2025-01-12 18:12:05,787 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:12:05', 'image': 'motion_20250112_181205.jpg'}
+2025-01-12 18:12:14,194 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:12:14', 'image': None}
+2025-01-12 18:12:40,200 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_181240.jpg
+2025-01-12 18:12:40,202 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:12:40', 'image': 'motion_20250112_181240.jpg'}
+2025-01-12 18:12:49,069 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:12:49', 'image': None}
+2025-01-12 18:12:55,673 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_181255.jpg
+2025-01-12 18:12:55,673 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:12:55', 'image': 'motion_20250112_181255.jpg'}
+2025-01-12 18:13:03,992 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:13:03', 'image': None}
+2025-01-12 18:13:17,669 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_181317.jpg
+2025-01-12 18:13:17,674 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:13:17', 'image': 'motion_20250112_181317.jpg'}
+2025-01-12 18:13:26,540 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:13:26', 'image': None}
+2025-01-12 18:16:53,995 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_181653.jpg
+2025-01-12 18:16:53,996 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:16:53', 'image': 'motion_20250112_181653.jpg'}
+2025-01-12 18:17:02,342 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:17:02', 'image': None}
+2025-01-12 18:20:57,695 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_182057.jpg
+2025-01-12 18:20:57,696 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:20:57', 'image': 'motion_20250112_182057.jpg'}
+2025-01-12 18:21:06,100 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:21:06', 'image': None}
+2025-01-12 18:21:09,413 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_182109.jpg
+2025-01-12 18:21:09,415 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:21:09', 'image': 'motion_20250112_182109.jpg'}
+2025-01-12 18:21:18,270 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:21:18', 'image': None}
+2025-01-12 18:21:31,386 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_182131.jpg
+2025-01-12 18:21:31,387 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:21:31', 'image': 'motion_20250112_182131.jpg'}
+2025-01-12 18:21:39,791 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:21:39', 'image': None}
+2025-01-12 18:21:56,255 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_182156.jpg
+2025-01-12 18:21:56,257 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:21:56', 'image': 'motion_20250112_182156.jpg'}
+2025-01-12 18:22:04,640 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:22:04', 'image': None}
+2025-01-12 18:23:20,698 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_182320.jpg
+2025-01-12 18:23:20,700 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:23:20', 'image': 'motion_20250112_182320.jpg'}
+2025-01-12 18:23:29,654 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:23:29', 'image': None}
+2025-01-12 18:24:11,984 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_182411.jpg
+2025-01-12 18:24:11,985 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:24:11', 'image': 'motion_20250112_182411.jpg'}
+2025-01-12 18:24:20,853 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:24:20', 'image': None}
+2025-01-12 18:24:31,800 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_182431.jpg
+2025-01-12 18:24:31,801 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:24:31', 'image': 'motion_20250112_182431.jpg'}
+2025-01-12 18:24:40,185 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:24:40', 'image': None}
+2025-01-12 18:25:20,229 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_182520.jpg
+2025-01-12 18:25:20,231 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:25:20', 'image': 'motion_20250112_182520.jpg'}
+2025-01-12 18:25:29,058 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:25:29', 'image': None}
+2025-01-12 18:27:37,086 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_182737.jpg
+2025-01-12 18:27:37,086 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:27:37', 'image': 'motion_20250112_182737.jpg'}
+2025-01-12 18:27:46,010 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:27:46', 'image': None}
+2025-01-12 18:27:48,222 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_182748.jpg
+2025-01-12 18:27:48,223 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:27:48', 'image': 'motion_20250112_182748.jpg'}
+2025-01-12 18:27:57,110 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:27:57', 'image': None}
+2025-01-12 18:28:00,408 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_182800.jpg
+2025-01-12 18:28:00,409 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:28:00', 'image': 'motion_20250112_182800.jpg'}
+2025-01-12 18:28:09,266 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:28:09', 'image': None}
+2025-01-12 18:39:22,255 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_183922.jpg
+2025-01-12 18:39:22,255 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:39:22', 'image': 'motion_20250112_183922.jpg'}
+2025-01-12 18:39:31,109 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:39:31', 'image': None}
+2025-01-12 18:43:46,521 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_184346.jpg
+2025-01-12 18:43:46,522 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:43:46', 'image': 'motion_20250112_184346.jpg'}
+2025-01-12 18:43:55,405 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:43:55', 'image': None}
+2025-01-12 18:43:58,707 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_184358.jpg
+2025-01-12 18:43:58,708 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:43:58', 'image': 'motion_20250112_184358.jpg'}
+2025-01-12 18:44:07,548 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:44:07', 'image': None}
+2025-01-12 18:44:10,303 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_184410.jpg
+2025-01-12 18:44:10,305 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:44:10', 'image': 'motion_20250112_184410.jpg'}
+2025-01-12 18:44:19,204 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:44:19', 'image': None}
+2025-01-12 18:47:46,317 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_184746.jpg
+2025-01-12 18:47:46,317 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:47:46', 'image': 'motion_20250112_184746.jpg'}
+2025-01-12 18:47:55,185 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:47:55', 'image': None}
+2025-01-12 18:48:29,216 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_184829.jpg
+2025-01-12 18:48:29,216 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:48:29', 'image': 'motion_20250112_184829.jpg'}
+2025-01-12 18:48:37,607 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:48:37', 'image': None}
+2025-01-12 18:52:33,415 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_185233.jpg
+2025-01-12 18:52:33,416 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:52:33', 'image': 'motion_20250112_185233.jpg'}
+2025-01-12 18:52:42,281 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:52:42', 'image': None}
+2025-01-12 18:56:29,919 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_185629.jpg
+2025-01-12 18:56:29,920 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:56:29', 'image': 'motion_20250112_185629.jpg'}
+2025-01-12 18:56:38,239 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:56:38', 'image': None}
+2025-01-12 18:56:50,828 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_185650.jpg
+2025-01-12 18:56:50,830 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:56:50', 'image': 'motion_20250112_185650.jpg'}
+2025-01-12 18:56:59,137 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:56:59', 'image': None}
+2025-01-12 18:58:09,193 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_185809.jpg
+2025-01-12 18:58:09,193 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 18:58:09', 'image': 'motion_20250112_185809.jpg'}
+2025-01-12 18:58:18,060 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 18:58:18', 'image': None}
+2025-01-12 19:01:25,794 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_190125.jpg
+2025-01-12 19:01:25,796 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 19:01:25', 'image': 'motion_20250112_190125.jpg'}
+2025-01-12 19:01:34,664 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 19:01:34', 'image': None}
+2025-01-12 19:01:37,945 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_190137.jpg
+2025-01-12 19:01:37,946 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 19:01:37', 'image': 'motion_20250112_190137.jpg'}
+2025-01-12 19:01:46,873 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 19:01:46', 'image': None}
+2025-01-12 19:02:07,713 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_190207.jpg
+2025-01-12 19:02:07,714 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 19:02:07', 'image': 'motion_20250112_190207.jpg'}
+2025-01-12 19:02:16,577 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 19:02:16', 'image': None}
+2025-01-12 19:03:18,450 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_190318.jpg
+2025-01-12 19:03:18,451 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 19:03:18', 'image': 'motion_20250112_190318.jpg'}
+2025-01-12 19:03:26,842 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 19:03:26', 'image': None}
+2025-01-12 19:04:24,783 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_190424.jpg
+2025-01-12 19:04:24,784 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 19:04:24', 'image': 'motion_20250112_190424.jpg'}
+2025-01-12 19:04:33,632 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 19:04:33', 'image': None}
+2025-01-12 19:04:53,911 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_190453.jpg
+2025-01-12 19:04:53,917 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 19:04:53', 'image': 'motion_20250112_190453.jpg'}
+2025-01-12 19:04:56,155 - SecurityMonitor - INFO - Image captured: static/captures/door_20250112_190456.jpg
+2025-01-12 19:04:56,155 - SecurityMonitor - INFO - Sending status data: {'door': 'OPEN', 'motion': 'DETECTED', 'timestamp': '2025-01-12 19:04:56', 'image': 'door_20250112_190456.jpg'}
+2025-01-12 19:04:59,566 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 19:04:59', 'image': None}
+2025-01-12 19:05:02,364 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 19:05:02', 'image': None}
+2025-01-12 19:05:07,452 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_190507.jpg
+2025-01-12 19:05:07,454 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 19:05:07', 'image': 'motion_20250112_190507.jpg'}
+2025-01-12 19:05:16,346 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 19:05:16', 'image': None}
+2025-01-12 20:31:56,596 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_203156.jpg
+2025-01-12 20:31:56,598 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 20:31:56', 'image': 'motion_20250112_203156.jpg'}
+2025-01-12 20:32:05,283 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 20:32:05', 'image': None}
+2025-01-12 20:32:17,846 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_203217.jpg
+2025-01-12 20:32:17,847 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 20:32:17', 'image': 'motion_20250112_203217.jpg'}
+2025-01-12 20:32:26,569 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 20:32:26', 'image': None}
+2025-01-12 20:32:32,042 - SecurityMonitor - INFO - Image captured: static/captures/motion_20250112_203232.jpg
+2025-01-12 20:32:32,044 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'DETECTED', 'timestamp': '2025-01-12 20:32:32', 'image': 'motion_20250112_203232.jpg'}
+2025-01-12 20:32:40,756 - SecurityMonitor - INFO - Sending status data: {'door': 'CLOSED', 'motion': 'NONE', 'timestamp': '2025-01-12 20:32:40', 'image': None}

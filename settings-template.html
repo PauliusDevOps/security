@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Security Monitor Settings</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+        .settings-panel {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        .settings-group {
+            margin-bottom: 30px;
+        }
+        .setting-item {
+            margin: 15px 0;
+            padding: 10px;
+            border-radius: 4px;
+            background-color: #f8f9fa;
+        }
+        .setting-label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        .setting-input {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        .backup-section {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: #e9ecef;
+            border-radius: 8px;
+        }
+        .save-button {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .save-button:hover {
+            background-color: #0056b3;
+        }
+        .restore-button {
+            background-color: #6c757d;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .alert {
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 4px;
+        }
+        .alert-success {
+            background-color: #d4edda;
+            color: #155724;
+        }
+        .alert-danger {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+    </style>
+</head>
+<body>
+    <div class="settings-panel">
+        <h1>Security Monitor Settings</h1>
+        
+        <div id="alert-container"></div>
+        
+        <form id="settings-form">
+            {% for group_name, settings in settings_groups.items() %}
+            <div class="settings-group">
+                <h2>{{ group_name }}</h2>
+                {% for key, value in settings.items() %}
+                <div class="setting-item">
+                    <label class="setting-label" for="{{ key }}">
+                        {{ key.replace('_', ' ').title() }}
+                    </label>
+                    {% if key.endswith('_PIN') %}
+                        <input type="number" id="{{ key }}" name="{{ key }}"
+                               class="setting-input" value="{{ value }}" min="0" max="27">
+                    {% elif key.startswith('ENABLE_') %}
+                        <input type="checkbox" id="{{ key }}" name="{{ key }}"
+                               {% if value %}checked{% endif %}>
+                    {% elif key.endswith('_INTERVAL') or key.endswith('_TIMEOUT') %}
+                        <input type="number" id="{{ key }}" name="{{ key }}"
+                               class="setting-input" value="{{ value }}" min="0">
+                    {% else %}
+                        <input type="text" id="{{ key }}" name="{{ key }}"
+                               class="setting-input" value="{{ value }}">
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+            {% endfor %}
+            
+            <button type="submit" class="save-button">Save Settings</button>
+        </form>

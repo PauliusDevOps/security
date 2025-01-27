@@ -1,0 +1,43 @@
+from flask import Flask
+from app.utils.config_manager import ConfigurationManager
+from security_monitor import SecurityMonitor
+import queue
+import threading
+import os
+
+def create_app():
+    app = Flask(__name__)
+    
+    # Initialize configuration manager
+    app.config_manager = ConfigurationManager()
+    
+    # Initialize status queue
+    app.status_queue = queue.Queue()
+    
+    # Register blueprints
+    from app.routes.main_routes import main_bp
+    from app.routes.config_routes import config_bp
+    app.register_blueprint(main_bp)
+    app.register_blueprint(config_bp)
+    
+    return app
+
+def init_monitor(app):
+    monitor = SecurityMonitor(app.status_queue, app.config_manager)
+    app.security_monitor = monitor
+    return monitor
+
+if __name__ == '__main__':
+    app = create_app()
+    
+    if 'SECURITY_PASSWORD' in os.environ:
+        password = generate_password_hash(os.environ['SECURITY_PASSWORD'])
+        app.config_manager.config.USERS = {'admin': password}
+    
+    monitor = init_monitor(app)
+    
+    flask_thread = threading.Thread(target=lambda: app.run(host='0.0.0.0', port=5000, threaded=True))
+    flask_thread.daemon = True
+    flask_thread.start()
+    
+    monitor.run()
